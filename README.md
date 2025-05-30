@@ -1,2 +1,4 @@
 # Tableau_E-commerce_Dashboard
 I have created a comprehensive Tableau dashboard for Amazon's e-commerce platform, leveraging various datasets to provide valuable insights. The dashboard features key performance indicators such as sales trends, customer demographics, and product performance. Interactive visualizations allow users to explore data on sales revenue, order volume, and customer acquisition over time. The dashboard also includes detailed analyses of top-performing products, seasonal trends, and geographic sales distribution. This tool enables stakeholders to make data-driven decisions, optimize inventory, and enhance customer engagement by offering a clear, visual representation of Amazon's business metrics.
+
+![Screenshot (502)](https://github.com/user-attachments/assets/65ed5eb3-9b49-4e40-aecf-5e2f69623707)
